@@ -236,4 +236,4 @@ This repository serves as the official landing page for QT TabBar. The software 
 **Get the most recent version of QT TabBar today!**
 
 ---
-**Last updated:** 2026-10-24 22:58:13 UTC
+**Last updated:** 2026-10-25 00:59:51 UTC
